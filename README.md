@@ -4,7 +4,6 @@
 [![Demo Video](https://img.youtube.com/vi/nMY6rBdEEnM/0.jpg)](https://www.youtube.com/watch?v=nMY6rBdEEnM)
 
 
-![image](https://github.com/zainalibhinder/IoT-Driven-Solution-for-Smart-Air-Quality-Monitoring/assets/109630795/fa83f071-a083-4417-8a09-ff359fff7e8d)
 
 
 

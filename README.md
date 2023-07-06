@@ -23,7 +23,21 @@
 ## ABOUT THE PROJECT
 
 ```
-This project provides the designing and hardware implementation of a portable, user-friendly and economical air quality monitoring system using IoT principles. This system can be implemented for various applications for the real tome monitoring of a Co2 concentration such as monitoring pollution along roadside or traffic spots, monitoring pollution level generated from different industries, getting pollution concentration at indoor or home application or obtaining pollution data for a specific location. For this purpose, MQ 135 gas sensor is connected to the NodeMCU ESP32 controller and a connection is formed with MQTT broker to publish sensor readings to the broker. The obtained data is then displayed on the Node red dashboard for monitoring purpose. For future purpose, mobile phone notification system can also be implemented with this system through developing an application which will send these readings to the user to alert alarming air level in the environment even at remote place. Thereby, enhancing the security features of the system. Furthermore, the controller has room to accommodate different sensors so the system can be expanded with different sensors to enhance the reliability of the system. After slight modification, this system can be developed for future commercialization purpose.
+This project provides the designing and hardware implementation of a portable, user-friendly and 
+economical air quality monitoring system using IoT principles. This system can be implemented for
+ various applications for the real tome monitoring of a Co2 concentration such as monitoring 
+pollution along roadside or traffic spots, monitoring pollution level generated from different
+ industries, getting pollution concentration at indoor or home application or obtaining pollution
+ data for a specific location. For this purpose, MQ 135 gas sensor is connected to the NodeMCU 
+ESP32 controller and a connection is formed with MQTT broker to publish sensor readings to the 
+broker. The obtained data is then displayed on the Node red dashboard for monitoring purpose. For
+ future purpose, mobile phone notification system can also be implemented with this system through
+ developing an application which will send these readings to the user to alert alarming air level
+ in the environment even at remote place. Thereby, enhancing the security features of the system.
+ Furthermore, the controller has room to accommodate different sensors so the system can be 
+expanded with different sensors to enhance the reliability of the system. After slight modification,
+ this system can be developed for future commercialization purpose.
+
 
  
 ```

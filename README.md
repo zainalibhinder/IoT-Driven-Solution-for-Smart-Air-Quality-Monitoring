@@ -47,7 +47,7 @@ this system can be developed for future commercialization purpose.
 
  1) Install the  Node.JS, Arduino IDE, MQTT Explorer and Mosquito MQTT Broker.
 
- 2)Build the hardware setup as per the below schematic:
+ 2) Build the hardware setup as per the below schematic:
 ![image](https://github.com/zainalibhinder/IoT-Driven-Solution-for-Smart-Air-Quality-Monitoring/assets/109630795/eea1e003-de73-47d2-bf46-9bf849cfa4ab)
 
 

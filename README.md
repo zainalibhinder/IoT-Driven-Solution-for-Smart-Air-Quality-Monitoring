@@ -1,5 +1,8 @@
 #  IoT Driven Solution for Air Quality Monitoring
 
+[![Demo Video](https://img.youtube.com/vi/nMY6rBdEEnM/0.jpg)](https://www.youtube.com/watch?v=nMY6rBdEEnM)
+
+
 ![image](https://github.com/zainalibhinder/IoT-Driven-Solution-for-Smart-Air-Quality-Monitoring/assets/109630795/fa83f071-a083-4417-8a09-ff359fff7e8d)
 
 
@@ -72,7 +75,12 @@ net start mosquitto
 publish or subscribe to topics for testing MQQT devices and
 broker.
 
-7)
+7)Configure the Node-Red flows and dashboard to view the reading in realtime
+![image](https://github.com/zainalibhinder/IoT-Driven-Solution-for-Smart-Air-Quality-Monitoring/assets/109630795/46bb06bf-30ef-4745-a9c8-ca414b3276cc)
+
+![image](https://github.com/zainalibhinder/IoT-Driven-Solution-for-Smart-Air-Quality-Monitoring/assets/109630795/54dd6ea6-0cca-4c55-90bc-457fb11dc64d)
+
+
 
 
 

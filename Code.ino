@@ -1,20 +1,20 @@
-#include <MQ135.h>
+
 #include "MQ135.h"
 #include <WiFi.h>
 #include <PubSubClient.h>
 
 
 #define sensor         32                        //pin for analog input
-#define buzzer  12  //pin for buzzer192.168.2.21
+#define buzzer  12  //pin for buzzer
 
 
  
-const char* ssid = "BELL918";
-const char* password =  "2A326E47FD65";
-const char* mqttServer = "192.168.2.21";
+const char* ssid = "Network_SSID";
+const char* password =  "Network_Password";
+const char* mqttServer = "IP_Address";
 const int mqttPort = 1883;
-const char* mqttUser = "Dhanish";
-const char* mqttPassword = "12345";
+const char* mqttUser = "MQQT_Username";
+const char* mqttPassword = "MQQT_Password";
 
  
 WiFiClient espClient;
